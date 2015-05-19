@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>AE7AB95D-296F-4058-A008-9528078A87E1</string>
 	<key>IDESourceControlProjectName</key>
-	<string>FunFacts</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>57057ABDA3843CB23C6F1CB5CFF08983ABFAE3CF</key>
 		<string>https://github.com/willowcheng/FunFacts.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>FunFacts.xcodeproj</string>
+	<string>FunFacts.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>57057ABDA3843CB23C6F1CB5CFF08983ABFAE3CF</key>
