@@ -36,6 +36,7 @@
 		77CF74561B0B7E0300652CAE /* FunFactsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FunFactsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		77CF745B1B0B7E0300652CAE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		77CF745C1B0B7E0300652CAE /* FunFactsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FunFactsTests.swift; sourceTree = "<group>"; };
+		77CF74661B0B7F9400652CAE /* Scratchpad.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Scratchpad.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 			isa = PBXGroup;
 			children = (
 				77CF74431B0B7E0300652CAE /* FunFacts */,
+				77CF74671B0B7FA800652CAE /* Playgrounds */,
 				77CF74591B0B7E0300652CAE /* FunFactsTests */,
 				77CF74421B0B7E0300652CAE /* Products */,
 			);
@@ -110,6 +112,14 @@
 				77CF745B1B0B7E0300652CAE /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		77CF74671B0B7FA800652CAE /* Playgrounds */ = {
+			isa = PBXGroup;
+			children = (
+				77CF74661B0B7F9400652CAE /* Scratchpad.playground */,
+			);
+			name = Playgrounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
