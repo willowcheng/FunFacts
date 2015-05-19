@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		77551D791B0BD2FB0064162B /* FactBook.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77551D781B0BD2FB0064162B /* FactBook.swift */; };
 		77CF74471B0B7E0300652CAE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77CF74461B0B7E0300652CAE /* AppDelegate.swift */; };
 		77CF74491B0B7E0300652CAE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77CF74481B0B7E0300652CAE /* ViewController.swift */; };
 		77CF744C1B0B7E0300652CAE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 77CF744A1B0B7E0300652CAE /* Main.storyboard */; };
@@ -26,6 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		77551D781B0BD2FB0064162B /* FactBook.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FactBook.swift; sourceTree = "<group>"; };
 		77CF74411B0B7E0300652CAE /* FunFacts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FunFacts.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		77CF74451B0B7E0300652CAE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		77CF74461B0B7E0300652CAE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -80,6 +82,7 @@
 			isa = PBXGroup;
 			children = (
 				77CF74461B0B7E0300652CAE /* AppDelegate.swift */,
+				77551D781B0BD2FB0064162B /* FactBook.swift */,
 				77CF74481B0B7E0300652CAE /* ViewController.swift */,
 				77CF744A1B0B7E0300652CAE /* Main.storyboard */,
 				77CF744D1B0B7E0300652CAE /* Images.xcassets */,
@@ -222,6 +225,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				77551D791B0BD2FB0064162B /* FactBook.swift in Sources */,
 				77CF74491B0B7E0300652CAE /* ViewController.swift in Sources */,
 				77CF74471B0B7E0300652CAE /* AppDelegate.swift in Sources */,
 			);
@@ -419,6 +423,7 @@
 				77CF74621B0B7E0300652CAE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		77CF74631B0B7E0300652CAE /* Build configuration list for PBXNativeTarget "FunFactsTests" */ = {
 			isa = XCConfigurationList;
@@ -427,6 +432,7 @@
 				77CF74651B0B7E0300652CAE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
