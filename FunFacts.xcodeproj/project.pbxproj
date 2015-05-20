@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		77551D791B0BD2FB0064162B /* FactBook.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77551D781B0BD2FB0064162B /* FactBook.swift */; };
+		77AC202F1B0CD5CD00A7BE98 /* ColorWheel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77AC202E1B0CD5CD00A7BE98 /* ColorWheel.swift */; };
 		77CF74471B0B7E0300652CAE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77CF74461B0B7E0300652CAE /* AppDelegate.swift */; };
 		77CF74491B0B7E0300652CAE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77CF74481B0B7E0300652CAE /* ViewController.swift */; };
 		77CF744C1B0B7E0300652CAE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 77CF744A1B0B7E0300652CAE /* Main.storyboard */; };
@@ -28,6 +29,7 @@
 
 /* Begin PBXFileReference section */
 		77551D781B0BD2FB0064162B /* FactBook.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FactBook.swift; sourceTree = "<group>"; };
+		77AC202E1B0CD5CD00A7BE98 /* ColorWheel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorWheel.swift; sourceTree = "<group>"; };
 		77CF74411B0B7E0300652CAE /* FunFacts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FunFacts.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		77CF74451B0B7E0300652CAE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		77CF74461B0B7E0300652CAE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -88,6 +90,7 @@
 				77CF744D1B0B7E0300652CAE /* Images.xcassets */,
 				77CF744F1B0B7E0300652CAE /* LaunchScreen.xib */,
 				77CF74441B0B7E0300652CAE /* Supporting Files */,
+				77AC202E1B0CD5CD00A7BE98 /* ColorWheel.swift */,
 			);
 			path = FunFacts;
 			sourceTree = "<group>";
@@ -228,6 +231,7 @@
 				77551D791B0BD2FB0064162B /* FactBook.swift in Sources */,
 				77CF74491B0B7E0300652CAE /* ViewController.swift in Sources */,
 				77CF74471B0B7E0300652CAE /* AppDelegate.swift in Sources */,
+				77AC202F1B0CD5CD00A7BE98 /* ColorWheel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
